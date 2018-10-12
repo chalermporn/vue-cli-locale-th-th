@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-locale-th-TH",
+  "name": "vue-cli-locale-th-th",
   "version": "1.0.1",
   "description": "Thai localization for @vue/cli.",
   "main": "./locales/th.json",
