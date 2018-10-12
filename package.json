@@ -1,10 +1,9 @@
 {
   "name": "vue-cli-locale-th-TH",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Thai localization for @vue/cli.",
   "main": "./locales/th.json",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "vuejs",
     "vue-cli",
@@ -12,7 +11,7 @@
     "vue-cli-locale-th-th",
     "vue-cli-locale-th-TH"
   ],
-  "repository": { 
+  "repository": {
     "type": "git",
     "url": "git@github.com:chalermporn/vue-cli-locale-th-th.git"
   },
