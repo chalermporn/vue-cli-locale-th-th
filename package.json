@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-locale-th-th",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Thai localization for @vue/cli.",
   "unpkg": "./locales/th.json",
   "keywords": [
