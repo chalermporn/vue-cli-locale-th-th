@@ -1,18 +1,21 @@
 {
-  "name": "vue-cli-locale-th-th",
-  "version": "1.1.2",
+  "name": "@arayasoft/vue-cli-locale-th-th",
+  "version": "1.0.0",
   "description": "Thai localization for @vue/cli.",
   "main": "./locales/th.json",
   "unpkg": "./locales/th.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalermporn/vue-cli-locale-th-th.git"
+  },
   "keywords": [
     "vuejs",
     "vue-cli",
     "locale"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:chalermporn/vue-cli-locale-th-th.git"
-  },
   "author": "Chalermporn Posoppitakwong <arayasoft@gmail.com>",
   "license": "MIT",
   "bugs": {
